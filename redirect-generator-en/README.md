@@ -56,5 +56,5 @@ old_url,new_url,similarity
 Imagine you’re migrating your blog from `/blog/...` to `/articles/...`.  
 Instead of manually matching hundreds of URLs, this app finds the best matches automatically and generates a redirect map for you.
 
-### 🧑‍💻 Author
+### 🧑‍💻 Author Felipe Saenz
 Created with ❤️ using **Python** and **Streamlit**.
