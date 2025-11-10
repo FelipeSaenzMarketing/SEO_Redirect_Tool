@@ -1,4 +1,4 @@
-# 🔁 Automatic 301 Redirect Generator
+# 🔁 Automatic 301 Redirect Generator By Felipe Saenz
 
 A **Streamlit web application** that automatically generates redirect suggestions between old and new URLs based on textual similarity.
 
