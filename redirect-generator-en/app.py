@@ -33,7 +33,7 @@ def generate_redirects(file_old, file_new, threshold):
 st.set_page_config(page_title="Redirect Generator", page_icon="🔁", layout="centered")
 
 st.title("🔁 Redirect Generator Tool - Similarity Score")
-st.write("Upload your **old** and **new** URL files to generate redirect suggestions based on textual similarity. Upload each .csv or .txt file with one column for better visualization)")
+st.write("Upload your **old** and **new** URL files to generate redirect suggestions based on textual similarity. Upload each .csv or .txt file with one column for better visualization.")
 st.write("Redirect Tool by Felipe Saenz.")
 
 file_old = st.file_uploader("📂 Upload old URLs file (.csv or .txt with one column for better visualization)", type=["csv", "txt"])
