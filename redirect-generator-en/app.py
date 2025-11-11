@@ -57,8 +57,7 @@ if file_old and file_new:
         file_name="redirects.csv",
         mime="text/csv"
     )
-    st.info("💡 Tip: Review low-similarity matches before applying them as final redirects.")
-     )
-    st.info("💡 Redirect Tool By Felipe Saenz.")
+    st.info("💡 Tip: Review low-similarity matches before applying them as final redirects.
+    Redirect tool by Felipe Saenz")
 else:
     st.warning("Please upload both files to begin.")
