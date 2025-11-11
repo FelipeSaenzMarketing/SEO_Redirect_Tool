@@ -32,7 +32,7 @@ def generate_redirects(file_old, file_new, threshold):
 # --- Streamlit Interface ---
 st.set_page_config(page_title="Redirect Generator", page_icon="🔁", layout="centered")
 
-st.title("🔁 Automatic 301 Redirect Generator by Felipe Saenz")
+st.title("🔁 Redirect Generator Tool - Similarity Score")
 st.write("Upload your **old** and **new** URL files to generate redirect suggestions based on textual similarity.")
 
 file_old = st.file_uploader("📂 Upload old URLs file (.csv or .txt)", type=["csv", "txt"])
@@ -58,5 +58,7 @@ if file_old and file_new:
         mime="text/csv"
     )
     st.info("💡 Tip: Review low-similarity matches before applying them as final redirects.")
+     )
+    st.info("💡 Redirect Tool By Felipe Saenz.")
 else:
     st.warning("Please upload both files to begin.")
