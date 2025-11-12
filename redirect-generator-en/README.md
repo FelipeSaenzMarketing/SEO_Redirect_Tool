@@ -1,4 +1,4 @@
-# 🔁 SEO Redirect Generator By Felipe Saenz
+# 🔁 SEO Redirect Tool By Felipe Saenz
 
 This App automatically generates redirect suggestions between old and new URLs based on textual similarity.
 
