@@ -1,6 +1,6 @@
 # 🔁 SEO Redirect Tool
 
-This APP automatically generates redirect suggestions between old and new URLs based on textual similarity.
+This App automatically generates redirect suggestions between old and new URLs based on textual similarity.
 
 ---
 
