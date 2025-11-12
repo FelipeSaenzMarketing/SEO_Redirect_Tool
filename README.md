@@ -1,6 +1,6 @@
-# 🔁 Automatic 301 Redirect Generator by Felipe Saenz
+# 🔁 SEO Redirect Tool
 
-A **Streamlit web application** that automatically generates redirect suggestions between old and new URLs based on textual similarity.
+This APP automatically generates redirect suggestions between old and new URLs based on textual similarity.
 
 ---
 
@@ -10,3 +10,4 @@ A **Streamlit web application** that automatically generates redirect suggestion
 2. Upload a file containing your **new URLs** (`urls_new.csv` or `.txt`). (Only one column with the URLs)
 3. Adjust the **similarity threshold** (for example, 0.6 or 0.7).
 4. Download the generated CSV file with the suggested redirects.
+5. Remember always to check the result of the .csv file.
