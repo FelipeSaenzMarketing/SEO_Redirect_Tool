@@ -1,10 +1,10 @@
-# 🔁 SEO Redirect Tool
+# SEO Redirect Tool
 
 This App automatically generates redirect suggestions between old and new URLs based on textual similarity.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Upload a file containing your **old URLs** (`urls_old.csv` or `.txt`). (Only one column with the URLs)
 2. Upload a file containing your **new URLs** (`urls_new.csv` or `.txt`). (Only one column with the URLs)
